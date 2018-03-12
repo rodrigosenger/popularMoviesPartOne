@@ -1,6 +1,5 @@
-# popularMoviesPartOne
-Popular Movies
+# Popular Movies
  
-![alt text](https://github.com/rodrigosenger/popularMoviesPartOne/tree/master/app/libs/imgs/popularMovies.png)
- 
-![alt text](https://github.com/rodrigosenger/popularMoviesPartOne/tree/master/app/libs/imgs/popularMovies2.png)
+![alt text](https://github.com/rodrigosenger/popularMoviesPartOne/tree/master/app/libs/imgs/popularMovies.png "Main movies screen")
+![alt text](https://github.com/rodrigosenger/popularMoviesPartOne/tree/master/app/libs/imgs/popularMovies2.png "Menu")
+
